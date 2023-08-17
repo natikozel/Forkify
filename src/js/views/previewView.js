@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import View from './view.js';
 import icons from 'url:../../img/icons.svg';
 import 'core-js/stable';
@@ -70,4 +69,3 @@ class previewView extends View {
 }
 
 export default new previewView();
->>>>>>> main

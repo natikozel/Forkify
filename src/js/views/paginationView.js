@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 import View from './view.js';
@@ -129,4 +128,3 @@ class PaginationView extends View {
 }
 
 >>>>>>> main
-export default new PaginationView();

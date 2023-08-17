@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 class SearchView {
   _parentEl = document.querySelector('.search');
 
@@ -44,4 +44,3 @@ class SearchView {
 }
 
 export default new SearchView();
->>>>>>> main

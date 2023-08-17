@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import View from './view.js';
 import previewView from './previewView.js';
 import icons from 'url:../../img/icons.svg'; // Parcel 2
@@ -39,5 +38,3 @@ class BookmarksView extends View {
 }
 
 export default new BookmarksView();
-
->>>>>>> main
