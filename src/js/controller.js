@@ -100,7 +100,11 @@ const init = function() {
   searchView.addHandlerSearch(controlSearchResults);
   addRecipeView.addHandlerUpload(controlAddRecipe);
   paginationView.addHandlerClick(controlPages);
-  console.log("Welcome");
+  newFeature();
 };
+
+const newFeature = function() {
+  console.log("Welcome to the application");
+}
 
 init();
