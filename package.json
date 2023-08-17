@@ -2,11 +2,18 @@
   "name": "forkify",
   "version": "1.0.0",
   "description": "Recipe application",
+<<<<<<< HEAD
   "default": "index.js",
 
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist --no-scope-hoist"
+=======
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+>>>>>>> main
   },
   "author": "Netanel Kozel",
   "license": "ISC",
