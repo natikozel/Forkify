@@ -10,7 +10,7 @@
     "author": "Netanel Kozel",
     "license": "ISC",
     "devDependencies": {
-      "parcel": "^2.0.1",
+      "parcel": "^2.0.1 --save-dev",
       "sass": "^1.26.10"
     },
     "dependencies": {
