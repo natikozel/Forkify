@@ -6,7 +6,7 @@
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist --no-scope-hoist"
-  }
+  },
     "author": "Netanel Kozel",
     "license": "ISC",
     "devDependencies": {
