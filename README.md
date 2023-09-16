@@ -8,7 +8,7 @@
 </p>
 
  ## Live Demo
-**You can see the `Forkify App` live on:** [Here](https://natikozel.github.io/Forkify/)
+**You can see the `Forkify App` live on:** [Here](https://forkify-natik.netlify.app/)
 
 ## Description
 Forkify is a JavaScript application that interacts with the Forkify API to fetch and display recipe food data. 
